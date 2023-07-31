@@ -1,5 +1,8 @@
 _repo: Maan-puoleen-b-Runoja_71211
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Siljo, Juhani
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6580
     wikipedia: http://fi.wikipedia.org/wiki/Juhani_Siljo
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71211#Maan-puoleen-b-Runoja
 gutenberg_issued: '2023-07-17'
 identifiers:
   gutenberg: '71211'
